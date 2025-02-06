@@ -1,0 +1,12 @@
+body {
+  background-image: url(https://img.freepik.com/free-photo/computer-program-coding-screen_53876-138060.jpg?t=st=1727036796~exp=1727040396~hmac=091973b79c0a83f03ba83ad64a7e68a9b8b70753f69fe8b376e2b2312e9f1808&w=740);
+  color: white;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+main {
+  background-color: black;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
